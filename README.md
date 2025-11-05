@@ -9,7 +9,7 @@ A Django + DRF web app with PostgreSQL (Supabase), third-party API integration, 
 - Deployed on Render.com
 
 ## Live Demo
-[https://expense-tracker-django-supabase.onrender.com](https://expense-tracker-django-supabase.onrender.com)
+Yet to deploy
 
 ## API Endpoints
 - `GET /api/expenses/`
